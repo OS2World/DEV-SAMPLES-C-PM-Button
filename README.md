@@ -7,7 +7,8 @@ LICENSE
 
 COMPILE TOOLS
 ===============
-* 
+* CommOS2 Lib
+* mmilib.h, touchscr.h
  
 AUTHORS
 ===============
