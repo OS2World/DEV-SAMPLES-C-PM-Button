@@ -1,0 +1,12 @@
+bin-ow/
+bin-gcc/
+*.obj
+*.res
+*.map
+*.err
+*.lst
+*.exe
+compile.log
+make.out
+*.mbr
+*.sym
